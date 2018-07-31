@@ -1,7 +1,7 @@
 {
-  "name": "vue-cli-plugin-nativescript-vue",
+  "name": "vue-cli-plugin-nativescript-vue-web",
   "version": "0.0.1",
-  "description": "A vue cli 3.x plugin for NativeScript-Vue",
+  "description": "A vue cli 3.x plugin for NativeScript-Vue-Web",
   "main": "index.js",
   "files": [
     "index.js",
@@ -12,7 +12,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Igor Randjelovic",
+  "author": "Yigit Erol",
   "license": "MIT",
   "dependencies": {
   },
