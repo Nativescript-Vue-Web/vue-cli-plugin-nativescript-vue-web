@@ -1,13 +1,14 @@
 {
   "name": "vue-cli-plugin-nativescript-vue-web",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A vue cli 3.x plugin for NativeScript-Vue-Web",
   "main": "index.js",
   "files": [
     "index.js",
     "lib",
     "generator",
-    "LICENSE"
+    "LICENSE",
+    "prompts.js"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
